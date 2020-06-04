@@ -1,7 +1,5 @@
 # Build a Customer Support Live Chat Widget with React and Jexia as backend
 
-[![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=41530897-4686-4ec6-96c1-b333031111ca)
-
 ![Client](screenshot/screenshot_1.png)
 ![Agent](screenshot/screenshot_2.png)
 
